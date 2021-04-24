@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QasimSheikh
+- 👋 Hi, I’m @QasimSheikh my profile is available at https://www.linkedin.com/in/qasim-sheikh-712250/
 - 👀 I’m interested in use of mathematics and computer science to solve real world problems.  I also work on developing e-assessment content for OpenEdx.  
 - 💞️ I’m looking to collaborate on 
        1.  developing e-assessment content for Edx,
